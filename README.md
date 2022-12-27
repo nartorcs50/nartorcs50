@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nartorcs50
+- 👋 Hi, I’m @Alhassan Nartor
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... cs50
 - 💞️ I’m looking to collaborate on ... a gaming project
